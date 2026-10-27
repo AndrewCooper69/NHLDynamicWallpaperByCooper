@@ -3,7 +3,7 @@
 
 *** This application is used to create wallpaper images for an NHL team's calendar, as well as NHL standings and statistics. ***
 
-*** The calendar goes on one monitor, and the standings goes on another monitor. ***
+*** The calendar goes on one monitor, and the standings and statistics screen goes on another monitor. ***
 
 *** You can choose which monitor to put them on, or omit one or the other.  They work on vertical or horizontal monitors. ***
 

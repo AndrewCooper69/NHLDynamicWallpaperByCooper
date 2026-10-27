@@ -1,7 +1,7 @@
 *** NHL Dynamic Wallpaper By Cooper ***
 
 
-*** This application is used to create wallpaper images for a NHL team's calendar, as well as NHL standings and statistics. ***
+*** This application is used to create wallpaper images for an NHL team's calendar, as well as NHL standings and statistics. ***
 
 *** The calendar goes on one monitor, and the standings goes on another monitor. ***
 

@@ -1,5 +1,6 @@
 *** NHL Dynamic Wallpaper By Cooper ***
 
+[Download the Latest Version](https://github.com/AndrewCooper69/NHLDynamicWallpaperByCooper/releases/latest)
 
 *** This application is used to create wallpaper images for an NHL team's calendar, as well as NHL standings and statistics. ***
 
